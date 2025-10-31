@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "Healthcare Solution",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "headline": "Revolutionizing Healthcare - One Solution at a Time",
+      "subheadline": "Join us on a mission to make healthcare accessible and efficient for everyone.",
+      "cta": {
+        "label": "Learn More",
+        "href": "https://utopia.so"
+      }
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "headline": "Facing Healthcare Challenges?",
+      "bullets": [
+        "Access to quality care shouldn't be complicated.",
+        "Healthcare systems are overwhelmed and fragmented.",
+        "Patients deserve better - faster, simpler, more personalized care."
+      ]
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "headline": "Our Solution",
+      "body": "Healthcare Solution is here to bridge the gap with technology, making healthcare seamless for both providers and patients."
+    },
+    {
+      "id": "benefits",
+      "type": "benefits",
+      "headline": "Why Healthcare Solution?",
+      "bullets": [
+        "Easy access to healthcare services from anywhere.",
+        "Personalized patient care with advanced AI.",
+        "Streamline healthcare processes, saving you time and money."
+      ]
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "headline": "Hear From Our Early Adopters",
+      "testimonials": [
+        {
+          "quote": "Since joining Healthcare Solution, accessing medical services has never been easier. A game-changer!",
+          "name": "John Doe",
+          "title": "Satisfied Patient"
+        },
+        {
+          "quote": "Our clinic's efficiency has improved dramatically. We're able to serve more patients with less hassle.",
+          "name": "Dr. Smith",
+          "title": "Healthcare Provider"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "headline": "Ready to Transform Healthcare?",
+      "supportingCopy": "Join us in making a difference. Be the first to know about our launch.",
+      "cta": {
+        "label": "Join Waitlist",
+        "href": "https://utopia.so"
+      }
+    }
+  ],
+  "goal": "lead-collection"
+}
