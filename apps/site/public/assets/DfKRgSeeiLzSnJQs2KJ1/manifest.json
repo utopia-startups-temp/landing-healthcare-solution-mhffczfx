@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2025-10-31T22:28:41.608Z",
+  "slug": "DfKRgSeeiLzSnJQs2KJ1",
+  "assets": [
+    {
+      "type": "branding.logo",
+      "url": "https://storage.googleapis.com/utopia-5421e.firebasestorage.app/projects/DfKRgSeeiLzSnJQs2KJ1/profile/1759920510032.jpg",
+      "metadata": {
+        "source": "projectContent.branding.logoUrl"
+      },
+      "path": "apps/site/public/assets/DfKRgSeeiLzSnJQs2KJ1/1759920510032.jpg"
+    },
+    {
+      "type": "team.photo",
+      "url": "https://firebasestorage.googleapis.com/v0/b/utopia-5421e.firebasestorage.app/o/profile_pictures%2Fprofile_QeKfj7nlOgaiOcQhBu3h4eNbFqv2_1760466188944.png?alt=media&token=22137484-bd41-4eb4-8071-5f5779252588",
+      "metadata": {
+        "source": "projectContent.team[0].photoUrl",
+        "name": "natalie747"
+      },
+      "path": "apps/site/public/assets/DfKRgSeeiLzSnJQs2KJ1/profile_pictures%2Fprofile_QeKfj7nlOgaiOcQhBu3h4eNbFqv2_1760466188944.png"
+    }
+  ],
+  "failures": []
+}
